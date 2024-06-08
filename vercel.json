@@ -12,10 +12,6 @@
         {
             "src": "/css/style.css",
             "dest": "/css/style.css"
-        },
-        {
-            "src": "/js/script.js",
-            "dest": "/js/script.js"
         }
     ]
 }
