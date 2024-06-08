@@ -10,7 +10,7 @@
 <body>
     <h1>PHP + Vercel🚀</h1>
     <p>Your are viewing Home page</p>
-    <a href="./about.php">Go to About page</a>
+    <a href="/about">Go to About page</a>
 </body>
 
 </html>
