@@ -12,8 +12,6 @@
     <h1>PHP + Vercel 🚀</h1>
     <p>Your are viewing About page</p>
     <a href="./index.php">Go to Home page</a>
-    <p id="timeId"></p>
-    <script src="../js/script.js"></script>
 </body>
 
 </html>
